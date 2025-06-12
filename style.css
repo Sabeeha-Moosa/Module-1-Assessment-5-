@@ -1,0 +1,92 @@
+body {
+    background: linear-gradient(135deg, #e0eaff 0%, #f8fafc 100%);
+    margin: 0;
+    padding: 0;
+}
+
+.gallery img{
+    width: 100%;
+    background-color: blue;
+    border-radius: 20px;
+}
+
+h1, h2{
+    font-family: impact,fantasy;
+    text-align: center;
+    font-size: 40px;
+    color: cornflowerblue;
+    font-style: italic;
+}
+
+h4{
+    font-family: impact,fantasy;
+    font-size: 30px;
+    font-style: italic;
+    color: cornflowerblue;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#menu {
+    display: flex;                
+    gap: 20px;                    
+    background-color: cornflowerblue;
+    padding: 20px;
+    border-radius: 10px;          
+    width: auto;                 
+    height: auto
+}
+
+#menu a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 800;
+    padding: 10px 20px;           
+    background-color: #5077bd;   
+    border-radius: 5px;           
+    display: inline-block;
+}
+
+#menu a:hover {
+    background-color: white;      
+    color: #5077bd;
+    cursor: pointer;
+}
+
+.superhero-card {
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 2px 12px rgba(50, 124, 194, 0.10);
+    padding: 24px;
+    margin: 24px auto;
+    max-width: 400px;
+    text-align: center;
+    transition: box-shadow 0.2s;
+}
+
+.superhero-card:hover {
+    box-shadow: 0 8px 32px rgba(50, 124, 194, 0.18);
+}
+
+.button {
+    background: #5077bd;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.button:hover {
+    background: #325a8c;
+}
+
+
