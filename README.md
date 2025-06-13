@@ -12,7 +12,7 @@ This is my submission for Assessment 5: The Superhero App. The project demonstra
 - Superpower list
 
 ## GitHub Pages
-[View the live site here.] https://github.com/Sabeeha-Moosa/Module-1-Assessment-5-/new/main
+[View the live site here.] https://sabeeha-moosa.github.io/Module-1-Assessment-5-/
 
 ## How to Use
 1. Open the link above to view the project live.
